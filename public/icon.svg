@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="DriveLegal icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f5e7a"/>
+      <stop offset="100%" stop-color="#d96b2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="#f4efe7"/>
+  <circle cx="256" cy="256" r="168" fill="url(#g)" opacity="0.16"/>
+  <path d="M141 272c0-63 51-114 114-114s114 51 114 114-51 114-114 114-114-51-114-114Z" fill="none" stroke="#123b5d" stroke-width="22"/>
+  <path d="M198 261h116" stroke="#d96b2b" stroke-width="24" stroke-linecap="round"/>
+  <path d="M224 225l32-32 32 32" fill="none" stroke="#123b5d" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M207 301h98" stroke="#123b5d" stroke-width="18" stroke-linecap="round" opacity="0.72"/>
+</svg>
